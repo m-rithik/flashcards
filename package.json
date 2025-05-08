@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "xlsx": "^0.18.5",
     "framer-motion": "^10.12.16",
-      "react-dropzone": "^14.2.3"
+    "react-dropzone": "^14.2.3"
 
   },
   "scripts": {
