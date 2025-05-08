@@ -8,12 +8,10 @@ import {
   IconButton,
   Slider,
   Paper,
-  Grid,
   Radio,
   RadioGroup,
   FormControlLabel,
   FormControl,
-  FormLabel,
 } from '@mui/material';
 import { motion, AnimatePresence } from 'framer-motion';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
