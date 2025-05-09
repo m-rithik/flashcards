@@ -10,7 +10,7 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#f321b4',
+      main: '#2196f3',
     },
     secondary: {
       main: '#f50057',
@@ -33,7 +33,7 @@ function App() {
       <Box
         sx={{
           minHeight: '100vh',
-          bgcolor: 'background.default',
+          background: 'linear-gradient(135deg, #0f2027 0%, #2c5364 100%)',
           py: 4,
         }}
       >
